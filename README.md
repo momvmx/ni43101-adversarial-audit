@@ -211,10 +211,3 @@ python -m ni43101.cli evaluate --pdf-dir data/pdfs --gt-dir data/ground_truth --
 ```
 
 The comparison freezes the pre-existing Evolution snapshot and reports Baseline versus Evolution Field Accuracy, Abstain Rate, and Unsafe Accept Rate.
-
-The repository includes the real PDFs under `data/pdfs/` and Ground Truth JSON
-under `data/ground_truth/` as delivery artifacts. `.env` and `outputs/runs/`
-remain ignored. Confirm redistribution rights and Ground Truth disclosure policy
-before publishing the repository.
-
-The project intentionally includes no Web UI, Docker, database, LangChain, or LangGraph.
