@@ -1,0 +1,65 @@
+{
+  "document_id": "Tanami-TR-12312018",
+  "records": [
+    {
+      "location": "Tanami UG",
+      "category": "Indicated",
+      "commodity": "Au",
+      "tonnage_mt": 3.8,
+      "grade": 4.73,
+      "grade_unit": "g/t Au",
+      "contained_metal": 570000,
+      "metal_unit": "oz"
+    },
+    {
+      "location": "Tanami UG",
+      "category": "Inferred",
+      "commodity": "Au",
+      "tonnage_mt": 6.3,
+      "grade": 5.67,
+      "grade_unit": "g/t Au",
+      "contained_metal": 1140000,
+      "metal_unit": "oz"
+    },
+    {
+      "location": "Tanami OP",
+      "category": "Indicated",
+      "commodity": "Au",
+      "tonnage_mt": 4.2,
+      "grade": 2.21,
+      "grade_unit": "g/t Au",
+      "contained_metal": 300000,
+      "metal_unit": "oz"
+    },
+    {
+      "location": "Tanami OP",
+      "category": "Inferred",
+      "commodity": "Au",
+      "tonnage_mt": 3.9,
+      "grade": 1.88,
+      "grade_unit": "g/t Au",
+      "contained_metal": 230000,
+      "metal_unit": "oz"
+    },
+    {
+      "location": "Total UG + OP",
+      "category": "Indicated",
+      "commodity": "Au",
+      "tonnage_mt": 8.0,
+      "grade": 3.4,
+      "grade_unit": "g/t Au",
+      "contained_metal": 870000,
+      "metal_unit": "oz"
+    },
+    {
+      "location": "Total UG + OP",
+      "category": "Inferred",
+      "commodity": "Au",
+      "tonnage_mt": 10.2,
+      "grade": 4.22,
+      "grade_unit": "g/t Au",
+      "contained_metal": 1370000,
+      "metal_unit": "oz"
+    }
+  ]
+}

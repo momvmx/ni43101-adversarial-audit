@@ -1,0 +1,14 @@
+{
+  "documents_total": 2,
+  "documents_passed": 2,
+  "documents_abstained": 0,
+  "abstain_rate": 0.0,
+  "total_numeric_fields": 48,
+  "correct_numeric_fields": 48,
+  "field_accuracy": 1.0,
+  "accepted_records": 16,
+  "accepted_record_accuracy": 1.0,
+  "unsafe_accept_count": 0,
+  "unsafe_accept_rate": 0.0,
+  "safe_abstain_count": 0
+}

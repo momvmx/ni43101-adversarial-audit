@@ -1,0 +1,31 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "ni43101-adversarial-audit"
+version = "0.1.0"
+description = "Adversarial audit MVP for NI 43-101 Mineral Resource extraction"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "pymupdf",
+    "pydantic",
+    "pydantic-settings",
+    "python-dotenv",
+    "openai",
+    "tenacity",
+    "typer",
+    "rich",
+    "orjson",
+    "rapidfuzz",
+]
+
+[project.optional-dependencies]
+dev = ["pytest"]
+
+[project.scripts]
+ni43101-audit = "ni43101.cli:app"
+
+[tool.setuptools.packages.find]
+where = ["src"]

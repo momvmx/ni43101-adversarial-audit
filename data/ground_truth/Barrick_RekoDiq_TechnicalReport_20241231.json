@@ -1,0 +1,105 @@
+{
+  "document_id": "Barrick_RekoDiq_TechnicalReport_20241231",
+  "records": [
+    {
+      "location": "Western Porphyries",
+      "category": "Indicated",
+      "commodity": "Cu",
+      "tonnage_mt": 3653.0,
+      "grade": 0.42,
+      "grade_unit": "% Cu",
+      "contained_metal": 15000000,
+      "metal_unit": "t"
+    },
+    {
+      "location": "Western Porphyries",
+      "category": "Inferred",
+      "commodity": "Cu",
+      "tonnage_mt": 1276.0,
+      "grade": 0.3,
+      "grade_unit": "% Cu",
+      "contained_metal": 4200000,
+      "metal_unit": "t"
+    },
+    {
+      "location": "Tanjeel",
+      "category": "Indicated",
+      "commodity": "Cu",
+      "tonnage_mt": 277.0,
+      "grade": 0.45,
+      "grade_unit": "% Cu",
+      "contained_metal": 1300000,
+      "metal_unit": "t"
+    },
+    {
+      "location": "Tanjeel",
+      "category": "Inferred",
+      "commodity": "Cu",
+      "tonnage_mt": 102.0,
+      "grade": 0.3,
+      "grade_unit": "% Cu",
+      "contained_metal": 300000,
+      "metal_unit": "t"
+    },
+    {
+      "location": "Reko Diq Total",
+      "category": "Indicated",
+      "commodity": "Cu",
+      "tonnage_mt": 3930.0,
+      "grade": 0.43,
+      "grade_unit": "% Cu",
+      "contained_metal": 17000000,
+      "metal_unit": "t"
+    },
+    {
+      "location": "Reko Diq Total",
+      "category": "Inferred",
+      "commodity": "Cu",
+      "tonnage_mt": 1378.0,
+      "grade": 0.3,
+      "grade_unit": "% Cu",
+      "contained_metal": 4500000,
+      "metal_unit": "t"
+    },
+    {
+      "location": "Western Porphyries",
+      "category": "Indicated",
+      "commodity": "Au",
+      "tonnage_mt": 3653.0,
+      "grade": 0.25,
+      "grade_unit": "g/t Au",
+      "contained_metal": 29000000,
+      "metal_unit": "oz"
+    },
+    {
+      "location": "Western Porphyries",
+      "category": "Inferred",
+      "commodity": "Au",
+      "tonnage_mt": 1276.0,
+      "grade": 0.2,
+      "grade_unit": "g/t Au",
+      "contained_metal": 7800000,
+      "metal_unit": "oz"
+    },
+    {
+      "location": "Reko Diq Total",
+      "category": "Indicated",
+      "commodity": "Au",
+      "tonnage_mt": 3653.0,
+      "grade": 0.25,
+      "grade_unit": "g/t Au",
+      "contained_metal": 29000000,
+      "metal_unit": "oz"
+    },
+    {
+      "location": "Reko Diq Total",
+      "category": "Inferred",
+      "commodity": "Au",
+      "tonnage_mt": 1276.0,
+      "grade": 0.2,
+      "grade_unit": "g/t Au",
+      "contained_metal": 7800000,
+      "metal_unit": "oz"
+    }
+  ]
+}

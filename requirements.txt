@@ -1,0 +1,11 @@
+pymupdf
+pydantic
+pydantic-settings
+python-dotenv
+openai
+tenacity
+typer
+rich
+orjson
+rapidfuzz
+pytest
